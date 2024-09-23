@@ -1,5 +1,5 @@
 # EJOICA_auto
-EJOICAのコードをまとめてAmazonギフト券にします。
+EJOICAギフトのコードをまとめてAmazonギフト券にします。
 
 マイネオから大量のコードをもらった方へ。
 
